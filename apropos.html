@@ -8,8 +8,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
-
-    <!-- Les fichier CSS -->
         <link rel="stylesheet" href="css/normalize.min.css">
         <link rel="stylesheet" href="css/main.css">
 
@@ -21,11 +19,10 @@
 
         <div class="header-container">
             <header class="wrapper clearfix">
-                <!-- Entete de la page -->
                 <h1 class="title">Blog de Sissi</h1>
                 <nav>
                     <ul>
-                        <li><a href="./index.html">Accueil</a></li>
+                        <li><a href="#">Accueil</a></li>
                         <li><a href="./blog.html">Blog</a></li>
                         <li><a href="https://sissi-forumofficiel.fr">Forum</a></li>
                         <li><a href="./apropos.html">À propos</a></li>
@@ -37,7 +34,6 @@
 
         <div class="main-container">
             <div class="main wrapper clearfix">
-                <!-- Corps de la page -->
 
                 <article>
                     <header>
@@ -58,7 +54,6 @@
                     </footer>
                 </article>
 
-                    <!-- Bandeau de la page -->
                 <aside>
                     <h3>Annonces</h3>
                     <p>Le site est actuellement en construction, je vous invite à vous rendre sur <a href="http://sissi-forumofficiel.fr">le forum officiel français</a>, qui est également en développement dans un stade très avancer.</p>
@@ -68,7 +63,6 @@
         </div> <!-- #main-container -->
 
         <div class="footer-container">
-            <!-- Pied de la page -->
             <footer class="wrapper">
                 <h3>Le pied de page</h3>
             </footer>

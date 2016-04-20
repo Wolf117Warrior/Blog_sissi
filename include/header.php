@@ -1,7 +1,7 @@
 <div class="header-container">
             <header class="wrapper clearfix">
                 <!-- Entete de la page -->
-                <h1 class="title">Blog de Sissi d'Autriche</h1>
+                <h1 class="title">Blog de Sissi</h1>
                 <nav>
                     <ul>
                         <li><a href="./index.html">Accueil</a></li>

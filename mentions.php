@@ -27,9 +27,7 @@
                  <p>Nullam cursus, nulla eu ultricies accumsan, velit magna egestas ex, vel eleifend enim est eu magna. Donec molestie malesuada augue at finibus. Nunc consectetur vitae velit sit amet mattis. Sed eget diam a ex consectetur posuere. Ut euismod faucibus velit, ac ultricies ante pharetra ac. Vivamus et libero vitae dolor scelerisque cursus. Fusce in ligula faucibus, ultricies orci sit amet, fermentum odio. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
                
                  </article>
-                 <!-- Bandeau de la page -->
-                <?php include("./include/sidebar.php"); ?>
-
+                 
             </div> <!-- #main -->
         </div> <!-- #main-container -->
 

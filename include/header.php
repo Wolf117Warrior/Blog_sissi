@@ -4,10 +4,10 @@
                 <h1 class="title">Blog de Sissi</h1>
                 <nav>
                     <ul>
-                        <li><a href="./index.html">Accueil</a></li>
-                        <li><a href="./blog.html">Blog</a></li>
+                        <li><a href="./index.php">Accueil</a></li>
+                        <li><a href="./blog.php">Blog</a></li>
                         <li><a href="https://sissi-forumofficiel.fr">Forum</a></li>
-                        <li><a href="./apropos.html">À propos</a></li>
+                        <li><a href="./apropos.php">À propos</a></li>
                         <li><a href="./contact.php">Contact</a></li>
                     </ul>
                 </nav>

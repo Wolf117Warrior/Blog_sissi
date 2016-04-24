@@ -14,6 +14,8 @@
 
                   <h3>La Reine de Hongrie</h3>
 
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Erzsebet_kiralyne_photo_1867.jpg?uselang=fr" alt="Sissi de Wittelsbach" style="width:290px;height:450px;">
+
                   <p>Le 8 juin 1867, <strong>Élisabeth</strong>, passionnée par la Hongrie, sa langue, et son peuple, est couronnée <strong>reine de Hongrie</strong> aux côtés de son mari (c'est la naissance de
                     la double monarchie austro-hongroise). Le compositeur Liszt, présent à la cérémonie, dira d'elle émerveillé : </p>
                     <p><em>« Elle n'avait jamais été aussi belle... elle apparaissait comme une vision céleste dans le déroulement d'un faste barbare ».</em></p>

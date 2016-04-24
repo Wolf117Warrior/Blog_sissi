@@ -14,6 +14,8 @@
 
                   <h3>L'Impératrice d'Autriche</h3>
 
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Winterhalter_Elisabeth_in_true_collours.jpg?uselang=fr" alt="Sissi de Wittelsbach" style="width:290px;height:450px;">
+
                   <p>Le jeune empereur <strong>François-Joseph d'Autriche</strong>, vivant dans une étroite complicité, voire sous l'emprise de sa mère l'<strong>archiduchesse Sophie</strong>, avait choisi la sœur
                     aînée de Sissi, la <strong>duchesse Hélène</strong> en Bavière, âgée de 19 ans. Les fiançailles devaient être célébrées le 18 août 1853, dans la résidence impériale d’été de Bad Ischl,
                     à l'occasion des fêtes données pour le vingt-troisième anniversaire du souverain autrichien.</p>

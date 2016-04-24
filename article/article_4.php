@@ -14,6 +14,8 @@
 
                   <h3>Une Impératrice Assassinée</h3>
 
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Geneveelisabeth.jpg?uselang=fr" alt="Sissi de Wittelsbach" style="width:290px;height:350px;">
+
                   <p>L'impératrice est atteinte d'anémie. Ne manger parfois que huit oranges par jour est, malgré les vitamines, insuffisant. Elle souffre aussi de névrite, d'insomnie
                     et d'une légère dilatation cardiaque. Le 16 juillet 1898, elle part pour une énième cure. Le 30 août 1898, elle arrive par le train à Munich après un périple en
                     Allemagne avec une suite réduite (son aide de camp le <strong>général de Berzeviczy</strong>, sa dame de compagnie la <strong>comtesse Irma Sztáray de Sztára</strong> et <strong>Nagymihály</strong>, Barker son nouveau

@@ -14,6 +14,8 @@
 
                   <h3>Les voyage de Sissi</h3>
 
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Elisabeth.jpg?uselang=fr" alt="Sissi de Wittelsbach">
+
                   <p>La nouvelle position d'<strong>Élisabeth</strong> a pour effet de distendre un peu plus les liens qui l'unissent à l'Autriche, et surtout à cette cour impériale qu'elle déteste.
                     Elle s'entoure de dames de compagnie uniquement hongroises, parmi lesquelles Marie Festetics, et Ida Ferenczy. L'impératrice passe de plus en plus de temps à
                     l'étranger en particulier à <strong>Gödöllő</strong>, et ne rentre à Vienne qu'en de rares occasions. Elle se surnomme elle-même « la mouette des mers ». </p>

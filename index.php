@@ -14,7 +14,7 @@
 
                  <h1>Élisabeth de Wittelsbach</h1>
 
-                 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Georg_Raab_002.jpg" alt="Sissi de Wittelsbach" style="width:260px;height:350px;">
+                 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Georg_Raab_002.jpg" alt="Sissi de Wittelsbach" style="width:290px;height:350px;">
 
                  <h2>Présentation</h2>
 

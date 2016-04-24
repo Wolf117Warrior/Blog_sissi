@@ -12,20 +12,28 @@
                 <!-- Corps de la page -->
                 <article>
 
-                 <h1>Le ceorem ipsum dolor sit amet, consectetur adipiscing elit.</h1> 
+                 <h1>Élisabeth de Wittelsbach</h1>
 
-                 <h2>Vestibulum sit amet vulputate erat. Etiam non scelerisque nulla, ac scelerisque ipsum.</h2>
+                 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Georg_Raab_002.jpg" alt="Sissi de Wittelsbach" style="width:260px;height:350px;">
 
-                 <p>Phasellus scelerisque risus tortor, sit amet scelerisque nisi fermentum id. Praesent tristique urna eu lacus auctor lacinia. Nullam quis arcu dapibus, fringilla neque a, consectetur turpis. Nam aliquam tempus magna. Quisque sed interdum tortor, vitae tincidunt massa. Praesent nunc nibh, tincidunt vel vehicula ac, scelerisque eget tellus. Curabitur eget euismod ligula, non sollicitudin nibh. Suspendisse vitae suscipit sem. Integer pharetra diam at scelerisque faucibus. Integer ac sollicitudin tortor. Suspendisse hendrerit justo elit, vitae tempor libero bibendum quis. Nulla scelerisque nisi eu est lobortis rutrum ac nec felis. Sed fermentum nibh at est aliquam fermentum.</p>
+                 <h2>Présentation</h2>
 
-                 <h2>Phasellus maximus mi nec libero rutrum, quis efficitur purus luctus. </h2>
+                 <p><strong>Élisabeth Amélie Eugénie de Wittelsbach</strong>, dite <strong>« Sissi »</strong> ou « Sisi » comme elle signait parfois, naît le 24 décembre 1837 dans le palais de la Ludwigstrasse à
+                 <strong>Munich</strong>, résidence hivernale de ses parents.</p>
+                 <p>« Sissi » est le quatrième enfant et la deuxième fille du duc Maximilien en Bavière et de la duchesse Ludovica de <strong>Bavière</strong>. L’enfant reçoit le prénom
+                 d’Élisabeth en l’honneur de sa marraine et tante maternelle, la reine Élisabeth de Prusse. <strong>Élisabeth</strong>grandit l’hiver à Munich et l’été dès que possible à la
+                 campagne, au château de <strong>Possenhofen</strong>, dit « Possi », petit château aux tourelles carrées situé sur les rives du lac de Starnberg. Paradoxalement, malgré les
+                 ambitions matrimoniales de sa mère pour ses filles, Sissi, comme ses frères et sœurs, est élevée sans contraintes ni manières. Elle est passionnée d’équitation,
+                 de poésie et adore faire de longues promenades en forêt. <strong>Élisabeth</strong> porte en elle la mélancolie des <strong>Wittelsbach</strong>, dynastie composée de nombreux artistes et de
+                 mécènes, dont <strong>Louis II de Bavière</strong>, protecteur de Richard Wagner. Élisabeth était l'enfant préféré de son père. Cela s'expliquerait par leurs caractères très
+                 proches : même goût pour les chevaux, l'indépendance, les voyages… Il n'était pas rare que le père et la fille disparussent subitement et qu'on les retrouve
+                 tous deux quelques jours plus tard engagés dans une troupe de cirque itinérante.</p>
+                 <p>À 14 ans, la jeune duchesse s'éprend d'un écuyer de son père nommé Richard et songe à l'épouser. Refusant cette alliance trop peu brillante (l'adolescent
+                 est certes noble mais seulement issu d'une famille comtale), la duchesse Ludovica éloigne le jeune homme qui meurt quelque temps plus tard de la tuberculose.
+                 Sissi est désespérée et se confie à son journal dans un poème déchirant.</p>
+                 <p>Pour lui changer les idées, la duchesse, qui doit emmener sa fille aînée Hélène en <strong>Autriche</strong>, décide que <strong>Sissi</strong> sera du voyage.</p>
 
-                 <p>Fusce quis neque nec elit iaculis varius. Quisque rutrum, ligula non ullamcorper aliquet, est ante dictum arcu, eu pharetra mi mi at orci. Cras imperdiet malesuada urna, ut feugiat magna dignissim in. Sed ullamcorper elit magna, vel condimentum lacus malesuada nec. Aliquam non nulla enim. Cras euismod ex erat, et tempus mauris semper sed. Integer ut augue at nisi iaculis egestas. Integer sit amet libero ac dui elementum viverra a quis risus. Integer tincidunt turpis sed purus posuere, vel suscipit magna ornare. In et porta ex. Etiam vitae nisl faucibus, maximus tellus sit amet, malesuada dolor. Sed commodo ex eget viverra viverra.</p>
-
-                 <h2>Duis ut lorem sollicitudin massa sodales gravida eu finibus dui.</h2>
-
-                 <p>Nullam cursus, nulla eu ultricies accumsan, velit magna egestas ex, vel eleifend enim est eu magna. Donec molestie malesuada augue at finibus. Nunc consectetur vitae velit sit amet mattis. Sed eget diam a ex consectetur posuere. Ut euismod faucibus velit, ac ultricies ante pharetra ac. Vivamus et libero vitae dolor scelerisque cursus. Fusce in ligula faucibus, ultricies orci sit amet, fermentum odio. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-
+                 <a href="https://fr.wikipedia.org/wiki/%C3%89lisabeth_en_Bavi%C3%A8re">Source</a>
                  </article>
                  <!-- Bandeau de la page -->
                 <?php include("./include/sidebar.php"); ?>

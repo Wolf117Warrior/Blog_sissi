@@ -12,7 +12,7 @@
                 <!-- Corps de la page -->
                 <article>
 
-                 <h1>Le,e,ceorem ipsum dolor sit amet, consectetur adipiscing elit.</h1> 
+                 <h1>Le ceorem ipsum dolor sit amet, consectetur adipiscing elit.</h1> 
 
                  <h2>Vestibulum sit amet vulputate erat. Etiam non scelerisque nulla, ac scelerisque ipsum.</h2>
 

@@ -35,6 +35,8 @@
 
                  <a href="https://fr.wikipedia.org/wiki/%C3%89lisabeth_en_Bavi%C3%A8re#Duchesse_en_Bavi.C3.A8re">Source</a>
                  </article>
+
+                 <a href="https://commons.wikimedia.org/wiki/File:Armoiries_d_Elisabeth_de_Baviere_Imperatrice_d'Autriche-Hongrie.svg">Source du logo et favicon</a>
                  <!-- Bandeau de la page -->
                 <?php include("./include/sidebar.php"); ?>
 

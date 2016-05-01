@@ -12,6 +12,10 @@
                 <!-- Corps de la page -->
                 <article>
 
+                  <h2>Edito</h2>
+                  <p>Le site sur lequel vous vous trouvé est destiné, a apporté une informations essentiel et vaste pour toutes personnes désirant s'informer sur le personnage historique d'<strong>Elizabeth Impératrice d’Autriche.</strong></p>
+                  <p>Vous trouverez divers articles et contenus fortement liés au <a target="_blank" href="http://sissi-forumofficiel.fr">forum Sissi Officiel français</a>.</p>
+                  <p><em><strong class="redactor-inline-converted">Texte en cours de rédaction.</strong></em><br></p></div>
 
                 </article>
             </div> <!-- #main -->

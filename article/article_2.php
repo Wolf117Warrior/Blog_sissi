@@ -32,6 +32,8 @@
                     monarchies. Cependant cette couronne de Hongrie et la naissance de cette enfant, pour laquelle elle éprouvera toute sa vie un amour exclusif et oppressant, marqueront
                     un tournant dans la vie d'<strong>Elisabeth</strong>. Elle s'est enfin imposée.</p>
 
+                    <a href="https://fr.wikipedia.org/wiki/%C3%89lisabeth_en_Bavi%C3%A8re#Reine_de_Hongrie">Source</a>
+
                 </article>
 
             </div> <!-- #main -->

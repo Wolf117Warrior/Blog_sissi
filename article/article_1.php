@@ -35,6 +35,8 @@
                   <p>Beaucoup plus tard, elle confiera à sa fille Marie-Valérie « le mariage est une institution absurde. Enfant de 15 ans, j'ai été vendue… » Cependant, elle est rapidement enceinte
                     et donnera naissance à quatre enfants : <strong>Sophie</strong> (1855-1857), <strong>Gisèle</strong> (1856-1932), <strong>Rodolphe</strong> (1858-1889), <strong>Marie</strong> (1868-1924)</p>
 
+                    <a href="https://fr.wikipedia.org/wiki/%C3%89lisabeth_en_Bavi%C3%A8re#Imp.C3.A9ratrice_d.E2.80.99Autriche">Source</a>
+
                 </article>
 
             </div> <!-- #main -->

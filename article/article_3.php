@@ -26,6 +26,8 @@
                   <p>La relation en restera d'ailleurs au stade de l'amitié, mais François-Joseph trouvera auprès de « l'amie » - c'est ainsi que le couple impérial désigne Schratt dans
                     ses lettres - l'atmosphère « familiale » qui lui manquait depuis la mort de sa mère en 1872.</p>
 
+                    <a href="https://fr.wikipedia.org/wiki/%C3%89lisabeth_en_Bavi%C3%A8re#Une_inlassable_mouette">Source</a>
+
                 </article>
 
             </div> <!-- #main -->

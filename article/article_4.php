@@ -31,6 +31,8 @@
                     médecin observe un infime point rouge au-dessus du sein gauche. Sa dame de compagnie révèle alors le nom de sa maîtresse et le bateau Genève revient à quai.
                     Ramenée dans ses appartements, Élisabeth meurt à 14 h 40 dans les bras de <strong>Fanny Mayer</strong>, l'épouse du propriétaire de l'hôtel.</p>
 
+                    <a href="https://fr.wikipedia.org/wiki/%C3%89lisabeth_en_Bavi%C3%A8re#Imp.C3.A9ratrice_assassin.C3.A9e">Source</a>
+
                 </article>
 
             </div> <!-- #main -->

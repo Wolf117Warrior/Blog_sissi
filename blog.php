@@ -13,19 +13,19 @@
                       <article>
                             <h3>L'Impératrice d'Autriche</h3>
 
-                            <a href="./article/article_1.php">Lien vers l'article</a>
+                            <a href="./article_1.php">Lien vers l'article</a>
 
                             <h3>La Reine de Hongrie</h3>
 
-                            <a href="./article/article_2.php">Lien vers l'article</a>
+                            <a href="./article_2.php">Lien vers l'article</a>
 
                             <h3>Les voyage de Sissi</h3>
 
-                            <a href="./article/article_3.php">Lien vers l'article</a>
+                            <a href="./article_3.php">Lien vers l'article</a>
 
                             <h3>Une Impératrice Assassinée</h3>
 
-                            <a href="./article/article_4.php">Lien vers l'article</a>
+                            <a href="./article_4.php">Lien vers l'article</a>
                      </article>
 
                             <!-- Bandeau de la page -->

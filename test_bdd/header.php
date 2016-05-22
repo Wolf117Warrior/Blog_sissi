@@ -2,7 +2,7 @@
             <header class="wrapper clearfix">
                 <!-- Entete de la page -->
                 <img src="./img/logo.png" style="width: 109px;height: 75px;float: left;">
-                <h1 class="title">Blog de Sissi</h1>
+                <h1 class="title"><title> Blog de Sissi</title></h1>
 
                 <nav>
                     <ul>

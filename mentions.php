@@ -3,14 +3,14 @@
     <!-- Entete HTML -->
     <?php include("./include/head.php"); ?>
 
-    <body>
-        <!-- Menu de la page -->
-        <?php include("./include/header.php"); ?>
-
-        <div class="main-container">
-            <div class="main wrapper clearfix">
-                <!-- Corps de la page -->
-                <article>
+<body>
+    <!-- Menu de la page -->
+    <?php include("./include/header.php"); ?>
+    
+    <!-- Corps de la page -->
+    <div class="main-container">
+        <div class="main wrapper clearfix">
+            <article>
                   <h2>Informations légales</h2>
                   <h3>1. Présentation du site.</h3>
                   <p>En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site <a href="http://http://sissi-forum-officiel.fr/" title="Emilien LOCATELLI - http://sissi-forum-officiel.fr"></a> l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi :</p>
@@ -66,16 +66,14 @@
 
 
                 </article>
+        </div> <!-- #main -->
+    </div> <!-- #main-container -->
 
-            </div> <!-- #main -->
-        </div> <!-- #main-container -->
+    <!-- Pieds de la page -->
+    <?php include("/include/footer.php"); ?>
+    
+    <!-- Scripts -->
+    <?php include("./include/scripts.php"); ?>
 
-        <!-- Pieds de la page -->
-        <?php include("./include/footer.php"); ?>
-
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
-
-        <script src="js/main.js"></script>
-    </body>
+</body>
 </html>

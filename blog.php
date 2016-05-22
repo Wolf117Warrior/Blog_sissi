@@ -1,44 +1,38 @@
+<?php include("./include/connexion.php"); $con = connexionbdd() ;
+$req3="SELECT titre, chapo, contenu, page FROM blog_article WHERE page<>'index.php' ORDER BY id ASC";
+$res3 = mysqli_query($con, $req3);?>
+
 <!doctype html>
 <html class="no-js" lang="fr">
     <!-- Entete HTML -->
     <?php include("./include/head.php"); ?>
 
-    <body>
-        <!-- Menu de la page -->
-        <?php include("./include/header.php"); ?>
+<body>
+    <!-- Menu de la page -->
+    <?php include("./include/header.php"); ?>
 
-        <!-- Corps de la page -->
-        <div class="main-container">
-                    <div class="main wrapper clearfix">
-                      <article>
-                            <h3>L'Impératrice d'Autriche</h3>
+    <!-- Corps de la page -->
+    <div class="main-container">
+        <div class="main wrapper clearfix">
+            <article>
+                <?php while ($row = mysqli_fetch_array($res3, MYSQLI_ASSOC)) { ?>
+                <h2><?php echo $row['titre']; ?></h2>
+                <p><?php echo $row['chapo']; ?></p>
+                <a href="<?php echo $row['page']; ?>">Lien vers <?php echo $row['titre']; ?></a>
+                <?php  } ?>
+            </article>
 
-                            <a href="./article_1.php">Lien vers l'article</a>
+    <!-- Bandeau de la page -->
+    <?php include("./include/sidebar.php"); ?>
 
-                            <h3>La Reine de Hongrie</h3>
+        </div> <!-- #main -->
+    </div> <!-- #main-container -->
 
-                            <a href="./article_2.php">Lien vers l'article</a>
+    <!-- Pieds de la page -->
+    <?php include("./include/footer.php"); ?>
 
-                            <h3>Les voyage de Sissi</h3>
+    <!-- Scripts -->
+    <?php include("./include/scripts.php"); ?>
 
-                            <a href="./article_3.php">Lien vers l'article</a>
-
-                            <h3>Une Impératrice Assassinée</h3>
-
-                            <a href="./article_4.php">Lien vers l'article</a>
-                     </article>
-
-                            <!-- Bandeau de la page -->
-                            <?php include("./include/sidebar.php"); ?>
-                    </div> <!-- #main -->
-        </div> <!-- #main-container -->
-
-        <!-- Pieds de la page -->
-        <?php include("./include/footer.php"); ?>
-
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
-
-        <script src="js/main.js"></script>
-    </body>
+</body>
 </html>

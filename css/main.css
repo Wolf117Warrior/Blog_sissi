@@ -154,6 +154,11 @@ nav a:hover {
    Author's custom styles
    ========================================================================== */
 
+#map {
+    width: 500px;
+    height: 400px;
+    background-color: #CCC;
+  }
 
 
 

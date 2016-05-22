@@ -6,7 +6,7 @@
 <body>
     <!-- Menu de la page -->
     <?php include("./include/header.php"); ?>
-    
+
     <!-- Corps de la page -->
     <div class="main-container">
         <div class="main wrapper clearfix">
@@ -15,20 +15,23 @@
                 <form method="post" action="message.php" >
                     <p>Nom et prénom : <input type="text" name="nom" maxlength="50" required/><br /></p>
                     <p> Type de votre demande : <br>
-                        <input type="radio" name="demande" value="1" cheked>Demande de contact<br>
-                        <input type="radio" name="demande" value="2">Demande d'information<br>
-                        <input type="radio" name="demande" value="3">Suggestion d'amélioration<br></p>
+                        <input type="radio" name="demande" value="Demande de contact">Demande de contact<br>
+                        <input type="radio" name="demande" value="Demande d'information">Demande d'information<br>
+                        <input type="radio" name="demande" value="Suggestion d'amélioration">Suggestion d'amélioration<br></p>
                     <p>Votre message : <br><textarea  type="textarea" name="message" rows="8" cols="45" required></textarea></p>
                     <p>Votre email : <input type="email" name="mail" required/></p>
                         <input type="reset" value="Effacer" /> <input type="submit" value="OK" /><br>
                 </form>
+            </article>
+            <article>
+                <?php include("/include/carte.php"); ?>
             </article>
         </div> <!-- #main -->
     </div> <!-- #main-container -->
 
     <!-- Pieds de la page -->
     <?php include("/include/footer.php"); ?>
-    
+
     <!-- Scripts -->
     <?php include("./include/scripts.php"); ?>
 

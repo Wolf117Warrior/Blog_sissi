@@ -3,7 +3,7 @@ $req3="SELECT titre, chapo, contenu, page FROM blog_article WHERE page = 'index.
 $res3 = mysqli_query($con, $req3);?>
 
 <!doctype html>
-<html class="no-js" lang="fr">
+<html class="no-js" hreflang="fr">
     <!-- Entete HTML -->
     <?php include("./include/head.php"); ?>
 
@@ -16,7 +16,7 @@ $res3 = mysqli_query($con, $req3);?>
         <div class="main wrapper clearfix">
             <article>
                 <?php while ($row = mysqli_fetch_array($res3, MYSQLI_ASSOC)) { ?>
-                <h1><?php echo $row['titre']; ?></h1>
+                <h2><?php echo $row['titre']; ?></h2>
                 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Georg_Raab_002.jpg" alt="Sissi de Wittelsbach" style="width:290px;height:350px;">
                 <p><?php echo $row['contenu']; ?></p> <?php  } ?>
                 <a href="https://fr.wikipedia.org/wiki/%C3%89lisabeth_en_Bavi%C3%A8re#Duchesse_en_Bavi.C3.A8re">Source</a></br>
@@ -34,6 +34,6 @@ $res3 = mysqli_query($con, $req3);?>
 
     <!-- Scripts -->
     <?php include("./include/scripts.php"); ?>
-    
+
 </body>
 </html>

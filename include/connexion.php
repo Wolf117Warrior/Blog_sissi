@@ -2,8 +2,8 @@
 
   function connexionbdd() {
     /* DECLARATION des variables de connexion à la BDD ================================== */
-      $serveur = 'localhost';       $loginserveur = 'iliet_blog';   $mdpserveur = '********';
-      $nombdd  = 'ilietec121307fr27213_blog';
+      $serveur = 'localhost';       $loginserveur = 'root';   $mdpserveur = '';
+      $nombdd  = 'blog_sissi';
 
     /* CONNEXION serveur, définition du charset, connexion BDD, requete SQL ============== */
       $con = mysqli_connect($serveur, $loginserveur, $mdpserveur)

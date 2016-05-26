@@ -1,11 +1,21 @@
-<?php session_start(); ?>
-
 <?php include("./include/connexion.php"); $con = connexionbdd() ;
-$req3="SELECT titre, chapo, contenu, page FROM blog_article WHERE page<>'index.php' ORDER BY id ASC";
+$req3="SELECT titre, chapo, contenu, page FROM blog_article WHERE page = 'index.php' ORDER BY id ASC";
 $res3 = mysqli_query($con, $req3);?>
 
+<?php
+// On prolonge la session
+session_start();
+// On teste si la variable de session existe et contient une valeur
+if(empty($_SESSION['login'])) 
+{
+  // Si inexistante ou nulle, on redirige vers le formulaire de login
+  header('Location: login.php');
+  exit();
+}
+?>
+
 <!doctype html>
-<html class="no-js" lang="fr">
+<html class="no-js" hreflang="fr">
     <!-- Entete HTML -->
     <?php include("./include/head.php"); ?>
 
@@ -17,11 +27,10 @@ $res3 = mysqli_query($con, $req3);?>
     <div class="main-container">
         <div class="main wrapper clearfix">
             <article>
-                <?php while ($row = mysqli_fetch_array($res3, MYSQLI_ASSOC)) { ?>
-                <h2><?php echo $row['titre']; ?></h2>
-                <p><?php echo $row['chapo']; ?></p>
-                <a href="<?php echo $row['page']; ?>">Lien vers <?php echo $row['titre']; ?></a>
-                <?php  } ?>
+                 <?php
+    // Ici on est bien loggué, on affiche un message
+    echo 'Bienvenue ', $_SESSION['login'];
+  ?>
             </article>
 
     <!-- Bandeau de la page -->

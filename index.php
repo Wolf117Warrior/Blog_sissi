@@ -1,3 +1,5 @@
+<?php session_start(); ?>
+
 <?php include("./include/connexion.php"); $con = connexionbdd() ;
 $req3="SELECT titre, chapo, contenu, page FROM blog_article WHERE page = 'index.php' ORDER BY id ASC";
 $res3 = mysqli_query($con, $req3);?>

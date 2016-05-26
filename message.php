@@ -1,3 +1,5 @@
+<?php session_start(); ?>
+
 <!doctype html>
 <html class="no-js" lang="fr">
     <!-- Entete HTML -->
@@ -16,6 +18,9 @@
                 <p><?php if (isset($_POST['mail'])) { echo 'Votre mail que vous avez utilisé : '.$_POST['mail']; }?></p>
                 <p><?php if (isset($_POST['demande'])) { echo 'Vous avez indiqué que votre message concerne '.$_POST['demande']; }?></p>
                 <p><?php if (isset($_POST['message'])) { echo 'Voici donc le contenu de votre message : '.$_POST['message']; }?></p>
+                <!-- Préparation de la variable qui affichera la date envoi du formulaire dans le mail.-->
+                <?php date_default_timezone_set('Europe/Paris');
+                $timestamp = time();?>
             </article>
 
                 <!-- Bandeau de la page -->
@@ -32,4 +37,3 @@
 
 </body>
 </html>
-
